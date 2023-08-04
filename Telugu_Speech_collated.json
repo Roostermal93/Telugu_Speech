@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "9599a5d6-1f88-41a8-9cdd-36ba7b2c4b9e",
+            "collectionId": "Telugu",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Speech/9599a5d6-1f88-41a8-9cdd-36ba7b2c4b9e/9599a5d6-1f88-41a8-9cdd-36ba7b2c4b9e_te_Male.mp4"
+        },
+        {
+            "id": "e5420eef-e415-4340-b947-de33c7a35a49",
+            "collectionId": "Telugu",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Speech/e5420eef-e415-4340-b947-de33c7a35a49/e5420eef-e415-4340-b947-de33c7a35a49_te_Male.mp4"
+        },
+        {
+            "id": "7eea66aa-221b-4565-891f-582c4de1d162",
+            "collectionId": "Telugu",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Speech/7eea66aa-221b-4565-891f-582c4de1d162/7eea66aa-221b-4565-891f-582c4de1d162_te_Female.mp4"
+        }
+    ]
+}
